@@ -9,7 +9,7 @@
 - [Language File Format and Testing](#Language-File-Format-and-Testing)
 
 ## Mission
-A public effort to improve Stardock language localizations for software product catalog.
+A public effort to improve Stardock language localizations for our software product catalog.
 
 ## Supported Languages
 Stardock Software officially supports and maintains the following languages:
@@ -22,10 +22,10 @@ Stardock Software officially supports and maintains the following languages:
 -   Chinese (Simplified)
 -   Chinese (Traditional)
  
-We will accept any other user-created languages, and include them in the products, but we will not officially maintain them.  Any updates for the non-supported languages will have to come from the community via this project.
+We will accept other user-created languages, and include them in the products, but we will not officially maintain them.  Any updates for the non-supported languages will have to come from the community via this project.
 
 ## Editing and Submitting Languages
-Anyone familiar with how GitHub works knows how to use the common tools for forking a repository, making edits, and submitting pull requests for us to include them in the main. Anyone with this knowledge can skip to the [Language File Format and Testing](#language-file-format-and-testing) section to see how the language files are structured for each product. 
+We will be using GitHub to maintain translations across our software products. Anyone who is familiar with GitHub can skip to the [Language File Format and Testing](#language-file-format-and-testing) section to see how the language files are structured for each product but if you are not familiar with this tool, below are instructions to help you get started.
 
 The following directions are more for the laymen who want to contribute but do not want the complication of installing related software.
 ### Creating a GitHub account
